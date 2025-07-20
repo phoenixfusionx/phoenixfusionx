@@ -3,10 +3,11 @@
 ![github-banner](https://github.com/user-attachments/assets/2d5d2192-b7f0-46ec-94aa-c05bcf0c6055)
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/8c26f7bc-8bec-48b4-a758-b178aa13888e)
-### Lead Full-Stack Developer | 10+ Yrs Experience
+### AI Full-Stack Developer | Data Engineering & Automation
 
-With about **10 years** of experience in **full stack development**, I’ve worked with **startups** to build systems that are stable, easy to maintain, and ready to grow. 
-I cover everything from the **frontend** and **backend** to **deployment** and **cloud setup**, always aiming for **good performance** and **clean, straightforward code**.
+I have over 9 years of experience in full-stack development, with a strong focus on building intelligent and data-driven solutions. expertise includes developing web applications and integrating Ai technologies into SaaS products.
+
+The goal is to transform complex challenges into efficient and scalable solutions that drive business value. The experience includes both Frontend and Backend environments, creating seamless user experiences and powerful APIs.
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
